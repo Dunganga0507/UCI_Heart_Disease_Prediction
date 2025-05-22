@@ -16,6 +16,8 @@ Setup and Requirements
    - lightgbm
    - joblib
    - imbalanced-learn
+3. Required csv file
+   - https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
 
 Running the Web Interface
 -------------------------
