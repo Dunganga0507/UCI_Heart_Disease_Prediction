@@ -66,5 +66,4 @@ For details, see `uci_code.ipynb` (data processing, model training) and `web.py`
 
 ---
 
-Project Owner: [Kerem Akgöz]
 Date: May 2025
